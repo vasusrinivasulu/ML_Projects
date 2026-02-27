@@ -3,4 +3,4 @@
 ### Education
 M.Tech
 ### Work experience
-AI Engineer@ Tata Consultancy Services
+AI Engineer @ Tata Consultancy Services
